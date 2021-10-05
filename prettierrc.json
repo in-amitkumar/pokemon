@@ -1,0 +1,16 @@
+{
+    "arrowParens":"avoid",
+    "endOfLine":"lf",
+    "printWidth":100,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "useTab":true,
+    "overrides":[
+        {
+            "files":"*.scss",
+            "options":{
+                "singleQuote":false
+            }
+        }
+    ]
+}
